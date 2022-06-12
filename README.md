@@ -10,6 +10,8 @@ Steps:
 6. Enjoy.
 
 
+
+
 To change firebase account:  
 1. Open your firebase account and create project
 2. Insert your SHA-1 and project package to SHA-1 certificate fingerprint (you can check it in your android studio terminal by running command 'gradlew signigreport'
