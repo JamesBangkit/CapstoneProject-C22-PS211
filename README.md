@@ -1,7 +1,7 @@
 # CapstoneProject-C22-PS211
 ACREG
 
-Steps: 
+<b>Steps: </b>
 1. Download zip file (image classification.zip)
 2. Extract it
 3. Open the extracted file in Android Studio
@@ -12,7 +12,7 @@ Steps:
 
 
 
-To change firebase account:  
+<b>To change firebase account:  </b>
 1. Open your firebase account and create project
 2. Insert your SHA-1 and project package to SHA-1 certificate fingerprint (you can check it in your android studio terminal by running command 'gradlew signigreport'
 3. Create the authentication
