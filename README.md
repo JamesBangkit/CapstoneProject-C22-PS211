@@ -11,8 +11,8 @@ Steps:
 
 
 To change firebase account:  
-a. Open your firebase account and create project
-b. Insert your SHA-1 and project package to SHA-1 certificate fingerprint (you can check it in your android studio terminal by running command 'gradlew signigreport'
-c. Create the authentication
-d. Download google-service.json in firebase account settings
-e. Then replace the existing google-service.json file with your downloaded json file.
+1. Open your firebase account and create project
+2. Insert your SHA-1 and project package to SHA-1 certificate fingerprint (you can check it in your android studio terminal by running command 'gradlew signigreport'
+3. Create the authentication
+4. Download google-service.json in firebase account settings
+5. Then replace the existing google-service.json file with your downloaded json file.
