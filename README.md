@@ -1,7 +1,7 @@
 # CapstoneProject-C22-PS211
 ACREG
 
-<b><h1><marquee> Steps: </marquee></h1></b>
+<b><h1> Steps: </h1></b>
 1. Download zip file (image classification.zip)
 2. Extract it
 3. Open the extracted file in Android Studio
